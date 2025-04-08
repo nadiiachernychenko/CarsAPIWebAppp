@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\CarsAPIWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{198C1161-A174-4B82-8D19-4AAB6759C17D}|CarsAPIWebApp\\CarsAPIWebApp.csproj|c:\\users\\lenovo\\source\\repos\\carsapiwebapp\\carsapiwebapp\\models\\rent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198C1161-A174-4B82-8D19-4AAB6759C17D}|CarsAPIWebApp\\CarsAPIWebApp.csproj|solutionrelative:carsapiwebapp\\models\\rent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198C1161-A174-4B82-8D19-4AAB6759C17D}|CarsAPIWebApp\\CarsAPIWebApp.csproj|c:\\users\\lenovo\\source\\repos\\carsapiwebapp\\carsapiwebapp\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198C1161-A174-4B82-8D19-4AAB6759C17D}|CarsAPIWebApp\\CarsAPIWebApp.csproj|solutionrelative:carsapiwebapp\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198C1161-A174-4B82-8D19-4AAB6759C17D}|CarsAPIWebApp\\CarsAPIWebApp.csproj|c:\\users\\lenovo\\source\\repos\\carsapiwebapp\\carsapiwebapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198C1161-A174-4B82-8D19-4AAB6759C17D}|CarsAPIWebApp\\CarsAPIWebApp.csproj|solutionrelative:carsapiwebapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198C1161-A174-4B82-8D19-4AAB6759C17D}|CarsAPIWebApp\\CarsAPIWebApp.csproj|c:\\users\\lenovo\\source\\repos\\carsapiwebapp\\carsapiwebapp\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198C1161-A174-4B82-8D19-4AAB6759C17D}|CarsAPIWebApp\\CarsAPIWebApp.csproj|solutionrelative:carsapiwebapp\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198C1161-A174-4B82-8D19-4AAB6759C17D}|CarsAPIWebApp\\CarsAPIWebApp.csproj|c:\\users\\lenovo\\source\\repos\\carsapiwebapp\\carsapiwebapp\\models\\carsapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198C1161-A174-4B82-8D19-4AAB6759C17D}|CarsAPIWebApp\\CarsAPIWebApp.csproj|solutionrelative:carsapiwebapp\\models\\carsapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198C1161-A174-4B82-8D19-4AAB6759C17D}|CarsAPIWebApp\\CarsAPIWebApp.csproj|c:\\users\\lenovo\\source\\repos\\carsapiwebapp\\carsapiwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198C1161-A174-4B82-8D19-4AAB6759C17D}|CarsAPIWebApp\\CarsAPIWebApp.csproj|solutionrelative:carsapiwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198C1161-A174-4B82-8D19-4AAB6759C17D}|CarsAPIWebApp\\CarsAPIWebApp.csproj|c:\\users\\lenovo\\source\\repos\\carsapiwebapp\\carsapiwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{198C1161-A174-4B82-8D19-4AAB6759C17D}|CarsAPIWebApp\\CarsAPIWebApp.csproj|solutionrelative:carsapiwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198C1161-A174-4B82-8D19-4AAB6759C17D}|CarsAPIWebApp\\CarsAPIWebApp.csproj|c:\\users\\lenovo\\source\\repos\\carsapiwebapp\\carsapiwebapp\\migrations\\20250408052807_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198C1161-A174-4B82-8D19-4AAB6759C17D}|CarsAPIWebApp\\CarsAPIWebApp.csproj|solutionrelative:carsapiwebapp\\migrations\\20250408052807_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198C1161-A174-4B82-8D19-4AAB6759C17D}|CarsAPIWebApp\\CarsAPIWebApp.csproj|c:\\users\\lenovo\\source\\repos\\carsapiwebapp\\carsapiwebapp\\models\\carsharingzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198C1161-A174-4B82-8D19-4AAB6759C17D}|CarsAPIWebApp\\CarsAPIWebApp.csproj|solutionrelative:carsapiwebapp\\models\\carsharingzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198C1161-A174-4B82-8D19-4AAB6759C17D}|CarsAPIWebApp\\CarsAPIWebApp.csproj|c:\\users\\lenovo\\source\\repos\\carsapiwebapp\\carsapiwebapp\\migrations\\20250408053804_addprecisiontorentcost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198C1161-A174-4B82-8D19-4AAB6759C17D}|CarsAPIWebApp\\CarsAPIWebApp.csproj|solutionrelative:carsapiwebapp\\migrations\\20250408053804_addprecisiontorentcost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CarsAPIWebApp\\CarsAPIWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "CarsAPIWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CarsAPIWebApp\\CarsAPIWebApp\\Program.cs",
+              "RelativeToolTip": "CarsAPIWebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:52:53.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rent.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CarsAPIWebApp\\CarsAPIWebApp\\Models\\Rent.cs",
+              "RelativeDocumentMoniker": "CarsAPIWebApp\\Models\\Rent.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CarsAPIWebApp\\CarsAPIWebApp\\Models\\Rent.cs",
+              "RelativeToolTip": "CarsAPIWebApp\\Models\\Rent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T09:55:08.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250408053804_AddPrecisionToRentCost.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CarsAPIWebApp\\CarsAPIWebApp\\Migrations\\20250408053804_AddPrecisionToRentCost.cs",
+              "RelativeDocumentMoniker": "CarsAPIWebApp\\Migrations\\20250408053804_AddPrecisionToRentCost.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CarsAPIWebApp\\CarsAPIWebApp\\Migrations\\20250408053804_AddPrecisionToRentCost.cs",
+              "RelativeToolTip": "CarsAPIWebApp\\Migrations\\20250408053804_AddPrecisionToRentCost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T05:38:04.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CarsAPIWebApp\\CarsAPIWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "CarsAPIWebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CarsAPIWebApp\\CarsAPIWebApp\\appsettings.json",
+              "RelativeToolTip": "CarsAPIWebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAChAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-06T09:36:40.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarsAPIContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CarsAPIWebApp\\CarsAPIWebApp\\Models\\CarsAPIContext.cs",
+              "RelativeDocumentMoniker": "CarsAPIWebApp\\Models\\CarsAPIContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CarsAPIWebApp\\CarsAPIWebApp\\Models\\CarsAPIContext.cs",
+              "RelativeToolTip": "CarsAPIWebApp\\Models\\CarsAPIContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA7wCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:27:00.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CarsAPIWebApp\\CarsAPIWebApp\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "CarsAPIWebApp\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CarsAPIWebApp\\CarsAPIWebApp\\Models\\Car.cs",
+              "RelativeToolTip": "CarsAPIWebApp\\Models\\Car.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T08:42:23.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CarsAPIWebApp\\CarsAPIWebApp\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CarsAPIWebApp\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CarsAPIWebApp\\CarsAPIWebApp\\Models\\Customer.cs",
+              "RelativeToolTip": "CarsAPIWebApp\\Models\\Customer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T09:54:49.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CarsAPIWebApp\\CarsAPIWebApp\\Models\\Model.cs",
+              "RelativeDocumentMoniker": "CarsAPIWebApp\\Models\\Model.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CarsAPIWebApp\\CarsAPIWebApp\\Models\\Model.cs",
+              "RelativeToolTip": "CarsAPIWebApp\\Models\\Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T09:54:23.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250408052807_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CarsAPIWebApp\\CarsAPIWebApp\\Migrations\\20250408052807_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CarsAPIWebApp\\Migrations\\20250408052807_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CarsAPIWebApp\\CarsAPIWebApp\\Migrations\\20250408052807_InitialCreate.cs",
+              "RelativeToolTip": "CarsAPIWebApp\\Migrations\\20250408052807_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T05:28:08.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarSharingZone.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\CarsAPIWebApp\\CarsAPIWebApp\\Models\\CarSharingZone.cs",
+              "RelativeDocumentMoniker": "CarsAPIWebApp\\Models\\CarSharingZone.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\CarsAPIWebApp\\CarsAPIWebApp\\Models\\CarSharingZone.cs",
+              "RelativeToolTip": "CarsAPIWebApp\\Models\\CarSharingZone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T09:55:28.532Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
